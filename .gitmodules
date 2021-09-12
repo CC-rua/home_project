@@ -1,0 +1,6 @@
+[submodule "netty-in-action"]
+	path = netty-in-action
+	url = https://github.com/CC-rua/netty-in-action.git
+[submodule "cc_test"]
+	path = cc_test
+	url = ../cc_test.git
