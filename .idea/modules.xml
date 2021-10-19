@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cc_test/cc_test.iml" filepath="$PROJECT_DIR$/cc_test/cc_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-in-action/netty-in-action.iml" filepath="$PROJECT_DIR$/netty-in-action/netty-in-action.iml" />
+    </modules>
+  </component>
+</project>
