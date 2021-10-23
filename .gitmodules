@@ -4,3 +4,6 @@
 [submodule "cc_test"]
 	path = cc_test
 	url = ../cc_test.git
+[submodule "myNetty"]
+	path = myNetty
+	url = ../myNetty.git
