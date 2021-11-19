@@ -3,5 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/cc_test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myNetty" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/netty-in-action" vcs="Git" />
   </component>
 </project>
